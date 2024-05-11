@@ -1,5 +1,7 @@
 <H3>Experiment 2</H3>
 <H3>Date</H3>
+<H3>ENTER YOUR : NAME DHANASHREE M</H3>
+<H3>ENTER YOUR REGISTER NO: 212221230018</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
